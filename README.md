@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **thabombaiwa4@gmail.com**
 
-<p align="left">
 <a href="https://dev.to/thabo mbaiwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thabo mbaiwa" height="30" width="40" /></a>
 </p>
 
